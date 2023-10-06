@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luuk Aerdts</h1>
 <h3 align="center">I am an IT Expert from the Netherlands</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luuk-aerdts&label=Profile%20views&color=0e75b6&style=flat" alt="luuk-aerdts" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
