@@ -5,10 +5,10 @@
 - 🔭 I'm currently studying Expert IT at Summa College Eindhoven  
   
 
-- 🌱 I'm currently learning the whole fundamental of IT, especially the system administrator field!  
+- 🌱 I'm currently learning the whole fundamentals of IT, especially the system administrator field!  
   
 
-- ❓ Ask me about anything and maybe I can help you!  
+- ❓ Ask me about anything, and maybe I can help you!  
   
 
 <div align="center">  
