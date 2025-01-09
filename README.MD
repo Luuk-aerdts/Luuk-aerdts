@@ -2,10 +2,10 @@
 ### <div align="center">I'm Luuk, a IT Expert from the Netherlands!🚀</div>  
   
 
-- 🔭 I'm currently studying Expert IT at Summa College Eindhoven  
+- 🔭 I'm currently studying Business Informatics
   
 
-- 🌱 I'm currently learning the whole fundamentals of IT, especially the system administrator field!  
+- 🌱 I'm currently working parttime @Previder as an IT Support Specialist
   
 
 - ❓ Ask me about anything, and maybe I can help you!  
